@@ -1,7 +1,6 @@
 import csv
 import os
 
-
 class CarBase:
 
     ix_brand = 1
